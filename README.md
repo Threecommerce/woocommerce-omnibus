@@ -2,7 +2,7 @@
 
 A WooCommerce plugin for the **Omnibus Directive** (EU 2019/2161; in Italy art. 17-bis of the Consumer Code, Legislative Decree 26/2023). It keeps the **price history** of every product and, when a product is on sale, shows under the price the **lowest price applied in the 30 days before the discount**. It is the WooCommerce port of our Magento 2 module.
 
-![Product page with a discounted price and the lowest price of the last 30 days shown under it (illustration)](images/omnibus-product-page.png)
+![Product page with a discounted price and the lowest price of the last 30 days shown under it](images/omnibus-product-page.png)
 
 **Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.4 · HPOS · Block-based checkout
 **License:** commercial · coming soon
@@ -19,7 +19,7 @@ A WooCommerce plugin for the **Omnibus Directive** (EU 2019/2161; in Italy art. 
 - Off by default, but the history is recorded from activation, so it is complete when you switch the notice on.
 - Italian translation included.
 
-![Omnibus settings page in the WordPress admin (illustration)](images/omnibus-settings.png)
+![Omnibus settings page in the WordPress admin](images/omnibus-settings.png)
 
 ## Requirements
 
@@ -38,7 +38,7 @@ A WooCommerce plugin for the **Omnibus Directive** (EU 2019/2161; in Italy art. 
 
 ## Tested with
 
-The price-reference calculation is covered by automated unit tests. The WordPress and WooCommerce side has **not** been tested yet on a live installation; the images above are illustrations, not screenshots.
+The price-reference calculation is covered by automated unit tests, and the plugin has been run end to end on a local WordPress 7.1 / WooCommerce 10.9 installation (simple and variable products, discount chains, price changes made outside WooCommerce). It has not yet been tested on a live shop. The screenshots above are taken from that local installation.
 
 ## Availability
 
