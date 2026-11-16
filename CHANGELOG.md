@@ -5,6 +5,11 @@ Tutte le modifiche rilevanti a questo plugin sono documentate in questo file.
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/)
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
+## [1.0.2] - 2026-11-16
+
+### Changed
+- Descrizione del plugin (intestazione) in inglese, con la traduzione italiana in `languages/`: nell'elenco Plugin compare nella lingua del sito.
+
 ## [1.0.1] - 2026-11-03
 
 ### Fixed
