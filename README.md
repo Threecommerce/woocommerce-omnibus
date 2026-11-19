@@ -4,7 +4,7 @@ A WooCommerce plugin for the **Omnibus Directive** (EU 2019/2161; in Italy art. 
 
 ![Product page with a discounted price and the lowest price of the last 30 days shown under it](images/omnibus-product-page.png)
 
-**Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.4 · HPOS · Block-based checkout
+**Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.5 · HPOS · Block-based checkout
 **License:** commercial · coming soon
 
 ## Features
@@ -24,7 +24,7 @@ A WooCommerce plugin for the **Omnibus Directive** (EU 2019/2161; in Italy art. 
 ## Requirements
 
 - WordPress 6.0 or newer
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - WooCommerce 8.0 or newer
 
 ## Known limits
